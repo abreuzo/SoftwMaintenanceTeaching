@@ -1,0 +1,63 @@
+Link: https://forms.gle/MFjfLVFVpJuSbTUQ7
+
+Apresentação do Termo de Consentimento Livre e Esclarecido.
+
+Você já tinha experiência com manutenção de software antes deste projeto?
+	Não
+	Sim, em projetos acadêmicos
+	Sim, em projetos profissionais
+	Sim, em projetos profissionais e acadêmicos
+
+Quais das ferramentas ou tecnologias abaixo você já conhecia antes da prática do projeto? (Marque todas que se aplicam)
+	Python
+	SQLite
+	GitHub
+
+Quais ferramentas ou tecnologias você considera mais úteis para a realização da atividade? (Marque todas que se aplicam)
+	Python
+	SQLite
+	GitHub
+
+O quanto de conhecimento sobre manutenção de software você tinha ANTES do projeto? 
+	(Pouco) 1 a 4 (Muito)
+
+O quanto de conhecimento sobre manutenção de software você adquiriu DURANTE o projeto?
+	(Pouco) 1 a 4 (Muito)
+
+Você foi capaz de identificar os tipos de manutenção de software (corretiva, adaptativa, perfectiva) em todos os casos propostos?  
+	Sim, com segurança
+	Sim, porém, tive algum grau de dificuldade
+	Sim, porém, tive alto grau de dificuldade
+	Sim, somente em alguns casos
+	Não consegui identificar os tipos de manutenção de software
+
+Você acredita que essa atividade prática ajudou a compreender melhor o que é manutenção de software e seus tipos?  
+	(Pouco) 1 a 4 (Muito)
+
+Você se sentiu mais motivado a aprender/estudar com esse formato teórico e prático simulado cliente/empresa em comparação a aulas expositivas tradicionais?
+	Sim, muito motivado
+	Sim, um pouco mais motivado
+	Igual
+	Não, menos motivado
+
+Você se sente mais preparado para lidar com manutenção de software após essa prática?  
+	(Pouco) 1 a 4 (Muito)
+
+O quanto você considerou útil o documento Estudo de Caso Simulado disponibilizado durante a realização da parte prática do projeto para a identificação das manutenções durante o projeto?
+	(Pouco) 1 a 4 (Muito)
+
+Ainda sobre o Estudo de Caso Simulado. O quanto você julga que a organização do documento auxiliou a identificar as manutenções de software?
+	(Pouco) 1 a 4 (Muito)
+
+Sem o documento citado na pergunta anterior, o quanto julga que seria possível identificar as manutenções presentes no código durante o projeto?
+	(Pouco) 1 a 4 (Muito)
+
+Houve alguma ferramenta ou tecnologia que apresentou desafios significativos na sua utilização durante o projeto?
+
+Quais suas maiores dificuldades durante o projeto? (Caso não tenha tido basta colocar: Nenhuma dificuldade)
+
+O que você aprendeu que considera mais relevante nesta prática?  
+
+Quais suas sugestões, críticas sobre a metodologia? Em sua opinião o que pode ser melhorado? (opcional)
+
+

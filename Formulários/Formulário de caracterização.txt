@@ -1,0 +1,37 @@
+Link: https://forms.gle/b3rxAznaQF8cHq1E7
+
+Apresentação do Termo de Consentimento Livre e Esclarecido (TCLE).
+
+1 - Qual seu nível de experiência com manutenção de software? (Marque uma opção)
+	Nenhuma experiência
+	Conhecimento teórico básico (descobri na aula de Engenharia de Software)
+	Pequena experiência prática (em projetos pessoais ou acadêmicos anteriores à disciplina)
+	Experiência prática moderada (em projetos ou estágios)
+	Experiência prática avançada (em ambiente profissional)
+
+2 - Qual o seu nível de familiaridade com a ferramenta Git?
+	Nunca utilizei
+	Conheço o básico (comandos simples como add, commit, push)
+	Utilizo regularmente (branches, merges, rebase)
+	Tenho domínio avançado
+
+3 - Qual o seu nível de familiaridade com a ferramenta GitHub?
+	Nunca utilizei
+	Sei criar repositórios e fazer push/pull
+	Utilizo para colaborar em projetos (pull requests, issues)
+	Tenho domínio avançado
+
+4 - Qual o seu grau de familiaridade com a linguagem de programação Python?
+	Nenhuma familiaridade
+	Básico (variáveis, condicionais, loops)
+	Intermediário (funções, classes, objetos, módulos, manipulação de arquivos)
+	Avançado (estruturas de dados complexas, bibliotecas específicas, desenvolvimento web/desktop)
+
+5 - Qual o seu grau de familiaridade com banco de dados relacionais (ex.: SQLite, SQL Server, MySQL, PostgreSQL, etc.) ?
+	Nenhuma familiaridade
+	Conheço conceitos básicos (tabelas, chaves primárias/estrangeiras)
+	Sei fazer consultas SQL básicas (SELECT, INSERT, UPDATE, DELETE)
+	Sei projetar e normalizar bancos de dados, além de fazer consultas complexas (views, joins, dentre outros)
+	Tenho experiência avançada em administração ou otimização de bancos de dados
+
+Indique abaixo se você teve dificuldade em responder o questionário ou se deseja fazer alguma sugestão/comentário (opcional).
